@@ -4,3 +4,5 @@
 
 - Yingying Qian
 - Xiaobin Wang
+- Ziqi Xing
+- Yating Wang
