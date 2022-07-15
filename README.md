@@ -1,5 +1,5 @@
-#My first git exercise
+# My first git exercise
 
-##My name is
+## My name is
 
 - Yingying Qian
